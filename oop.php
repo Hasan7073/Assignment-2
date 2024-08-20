@@ -1,6 +1,6 @@
 <?php
 
-// Book class definition
+// Book class definition values
 class Book {
     // Private properties
     private $title;
